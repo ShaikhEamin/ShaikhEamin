@@ -1,4 +1,4 @@
-# 👋 Hi there!  
+# 👨🏼‍🔬 Hi there!  
 
 I'm **Shaikh Eamin**, an enthusiastic Electrical and Electronics Engineer and a **Quantum Computer Security Analyst** with a passion for innovation in **VLSI**, **semiconductor technology**, and **renewable energy**. My journey blends technical expertise with creativity, aiming to tackle real-world challenges in the fields of **circuit design**, **signal processing**, and **automation**.
 
