@@ -44,18 +44,17 @@ I'm **Shaikh Eamin**, an enthusiastic Electrical and Electronics Engineer and a 
 
 ---
 
+## 📊 GitHub Metrics  
+
+<div align="center">
+  <img src="https://github.com/your-username/metrics/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</div>
+
+---
+
 ## 🌐 Connect with Me  
 
 <div align="center">
   <a href="mailto:Eamineee19@gmail.com"><img src="https://img.shields.io/badge/Email-Eamineee19@gmail.com-red?style=flat&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/shaikh-eamin/"><img src="https://img.shields.io/badge/LinkedIn-Shaikh%20Eamin-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/ShaikhEamin"><img src="https://img.shields.io/badge/GitHub-ShaikhEamin-black?style=flat&logo=github" /></a>
-</div>
-
----
-
-## 🎯 Fun Fact  
-
-⚡ When I'm not working on engineering solutions, you can find me exploring **artificial intelligence** or brainstorming sustainable energy systems.
-
-> "Do. Or do not. There is no try." – Yoda  
+  <a href="https://github.com/ShaikhEamin"><img src="https://img.shields.io/badge/GitHub-ShaikhEamin-black?style=flat&logo=gith
