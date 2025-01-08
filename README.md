@@ -151,10 +151,6 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShaikhEamin&theme=radical&langs_count=8" alt="Shaikh's WakaTime Stats" />
   </p>
 
-  <!-- Language Pie Chart -->
-  <h3>🛠 Language Usage Breakdown</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhEamin&langs_count=10&layout=pie&theme=radical" alt="Language
 
 ---
 
