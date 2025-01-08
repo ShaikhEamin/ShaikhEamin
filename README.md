@@ -4,7 +4,7 @@
 - **Specialized in:** Semiconductor Technology, VLSI Design, and Quantum Computing Security.  
 - **Passionate about:** Advanced technology, IoT, and Electronics Innovation.  
 - **Currently pursuing:** Mastery in Verilog, MATLAB, Cadence, Python (for quantum computing), and C++.  
-- **Exploring:** Quantum computing security, low-power IoT systems, and RF/Analog Mixed-Signal Circuit Design.  
+- **Exploring:** Quantum computing security, low-power IoT systems, RTL design, and RF/Analog Mixed-Signal Circuit Design.  
 
 ---
 
@@ -12,6 +12,7 @@
 
 ✨ **Key Skills**:  
 - **Quantum Computer Security**: Exploring cutting-edge research to secure quantum technologies.  
+- **RTL Design & Verification**: Hands-on experience with Verilog-based RTL for hardware design and simulation.  
 - **VLSI Design**: Analog/digital circuits, PCB prototyping, and mixed-signal systems.  
 - **Renewable Energy & Power Systems**: Energy optimization, power distribution, and IoT-based solutions.  
 - **Programming**: Python, C, C++, MATLAB, Verilog.  
@@ -19,12 +20,12 @@
 
 🚀 **What I Bring**:  
 - Strong foundation in **analog & digital systems**.  
-- Hands-on experience with **IoT-based projects** and **FPGA design**.  
+- Hands-on experience with **RTL simulation**, **IoT-based projects**, and **FPGA design**.  
 - Proven leadership in **team collaboration**, **project management**, and innovative problem-solving.  
 
 ---
 
-## 📝 My Projects
+## 📝 Featured Projects
 
 | **Project**                      | **Description**                                                       | **Tech Used**              | **Link** |
 |----------------------------------|------------------------------------------------------------------------|----------------------------|----------|
@@ -34,9 +35,18 @@
 
 ---
 
+## 🏆 Achievements
+
+- 🥇 **Published Research**: *Nutritional Information Extraction from Packaged Food Labels* – IEEE ICPEICES 2024.  
+- 🎖️ **Trainee Engineer** at DESCO: Contributed to grid optimization, enhancing power distribution efficiency by 10%.  
+- 🔬 **Capstone Project**: Developed IoT-based systems for power theft protection and energy optimization.  
+- 🛠️ **RTL Trainee**: Gained experience in RTL design and verification, focusing on optimized hardware design flows.  
+
+---
+
 ## 📚 Current Learning Journey
 
-🌟 Mastering advanced concepts in **RF/Analog Mixed-Signal Circuit Design** and deepening my knowledge in **Quantum Computer Security**.  
+🌟 Mastering advanced concepts in **RTL Design**, **RF/Analog Mixed-Signal Circuit Design**, and deepening my knowledge in **Quantum Computer Security**.  
 
 📜 **Certifications**:  
 - **Google Project Management**  
@@ -58,6 +68,7 @@
   <img src="https://img.shields.io/badge/Programming-Verilog-9cf" />
   <img src="https://img.shields.io/badge/PCB Design-CAD-orange?style=flat" />
   <img src="https://img.shields.io/badge/Tools-Multisim-ff69b4" />
+  <img src="https://img.shields.io/badge/RTL%20Design-Verilog-9cf" />
   <img src="https://img.shields.io/badge/Tools-PSPICE-9cf" />
 </div>
 
@@ -69,6 +80,23 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shaikh-eamin&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikh-eamin&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
+---
+
+## 🛠️ Ongoing Work
+
+- Developing **RTL modules** and exploring verification techniques for high-performance hardware.  
+- Building **FPGA-based IoT solutions** for smart energy optimization.  
+- Researching **quantum-secure communication protocols** for next-generation computing systems.  
+- Creating a **portfolio website** to showcase expertise, projects, and research.  
+
+---
+
+## 🌟 Fun Facts
+
+- 🎨 I love creating tech-inspired artwork in my free time.  
+- 🌍 I'm a passionate advocate for renewable energy and sustainability.  
+- 💡 My favorite mantra: *“Innovation begins where limitations are challenged.”*
 
 ---
 
