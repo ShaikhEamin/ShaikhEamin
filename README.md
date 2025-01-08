@@ -53,11 +53,74 @@
 
 ## 📝 **Featured Projects**
 
-| **Project**                      | **Description**                                                       | **Tech Used**              | **Link** |
-|----------------------------------|------------------------------------------------------------------------|----------------------------|----------|
-| **Power Theft Protection System** | IoT-based system with piezoelectric sensors to prevent power theft.   | Verilog, Python, IoT       | [Repo](#)|
-| **Quantum Security Algorithms**   | Secure communication methods for quantum computing applications.      | Python, MATLAB             | [Repo](#)|
-| **FPGA-based IoT Systems**        | Smart solutions leveraging FPGA design for energy optimization.       | Verilog, FPGA, IoT         | [Repo](#)|
+<div align="center">
+  
+  ### 🚀 **Power Theft Protection System**  
+  - **Description:** IoT-based system leveraging piezoelectric sensors to prevent power theft.  
+  - **Key Features:**  
+    - Real-time theft detection using IoT sensors.  
+    - Automatic notifications for power discrepancies.  
+    - Reduced energy theft incidents by 30%.  
+  - **Tech Used:**  
+    ![Verilog](https://img.shields.io/badge/Verilog-blue?style=flat-square)  
+    ![Python](https://img.shields.io/badge/Python-green?style=flat-square)  
+    ![IoT](https://img.shields.io/badge/IoT-orange?style=flat-square)  
+  - **[📽️ Watch Demo](#)** | **[📄 Read Documentation](#)** | **[🔗 View Repository](#)**  
+
+  <p align="center">
+    <img src="assets/power-theft-protection-demo.gif" alt="Power Theft Protection Demo" width="600">
+  </p>
+
+  **Challenges:** Integration of IoT sensors with FPGA modules.  
+  **Learning Outcome:** Enhanced debugging and hands-on experience with Verilog for hardware-software integration.
+
+  ---
+
+  ### 🔒 **Quantum Security Algorithms**  
+  - **Description:** Secure communication methods for quantum computing applications.  
+  - **Key Features:**  
+    - Developed cryptographic algorithms for quantum security.  
+    - Optimized encryption for low-power quantum devices.  
+    - Published results in IEEE ICPEICES 2024.  
+  - **Tech Used:**  
+    ![Python](https://img.shields.io/badge/Python-green?style=flat-square)  
+    ![MATLAB](https://img.shields.io/badge/MATLAB-yellow?style=flat-square)  
+  - **[📽️ Watch Demo](#)** | **[📄 Read Documentation](#)** | **[🔗 View Repository](#)**  
+
+  <p align="center">
+    <img src="assets/quantum-security-demo.gif" alt="Quantum Security Algorithms Demo" width="600">
+  </p>
+
+  **Challenges:** Designing quantum algorithms for low-power devices.  
+  **Learning Outcome:** Strengthened understanding of quantum cryptography and algorithm optimization.
+
+  ---
+
+  ### ⚡ **FPGA-based IoT Systems**  
+  - **Description:** Smart solutions leveraging FPGA design for energy optimization.  
+  - **Key Features:**  
+    - Designed custom FPGA modules for IoT integration.  
+    - Achieved 10% faster data processing with optimized design.  
+    - Real-time monitoring for energy consumption.  
+  - **Tech Used:**  
+    ![Verilog](https://img.shields.io/badge/Verilog-blue?style=flat-square)  
+    ![FPGA](https://img.shields.io/badge/FPGA-critical?style=flat-square)  
+    ![IoT](https://img.shields.io/badge/IoT-orange?style=flat-square)  
+  - **[📽️ Watch Demo](#)** | **[📄 Read Documentation](#)** | **[🔗 View Repository](#)**  
+
+  <p align="center">
+    <img src="assets/fpga-iot-systems-demo.gif" alt="FPGA-based IoT Systems Demo" width="600">
+  </p>
+
+  **Challenges:** Ensuring real-time performance with FPGA modules.  
+  **Learning Outcome:** Improved hardware design skills and integration with IoT systems.
+
+  ---
+
+  ### 🔗 **View More Projects**
+  Explore more of my work on [GitHub](https://github.com/ShaikhEamin?tab=repositories) and stay updated with my latest innovations.
+
+</div>
 
 ---
 
@@ -124,10 +187,25 @@
 ## 🌐 **Connect with Me**
 
 <div align="center">
-  <a href="mailto:Eamineee19@gmail.com"><img src="https://img.shields.io/badge/Email-Eamineee19@gmail.com-red?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/shaikh-eamin/"><img src="https://img.shields.io/badge/LinkedIn-Shaikh%20Eamin-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/ShaikhEamin"><img src="https://img.shields.io/badge/GitHub-ShaikhEamin-black?style=flat&logo=github" /></a>
+
+  <a href="mailto:Eamineee19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Eamineee19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/shaikh-eamin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shaikh%20Eamin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/ShaikhEamin">
+    <img src="https://img.shields.io/badge/GitHub-ShaikhEamin-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://wa.me/8801980126253">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
 </div>
+
 
 ---
 
