@@ -8,9 +8,10 @@
 
 ### 👨🏼‍🔬 **About Me**
 
-- 🧠 **Exploring:** Quantum computing security, low-power IoT systems, and RTL design.  
-- 📚 **Currently mastering:** Verilog, MATLAB, Cadence, Python (for quantum computing), and C++.  
-- 🎓 **Education:** B.Sc. in Electrical & Electronic Engineering (AIUB) | **CGPA:** 3.28/4.00  
+- 🌟 **Specialized in:** Semiconductor Technology, VLSI Design, and Quantum Computing Security.  
+- 🔬 **Exploring:** Low-power IoT systems, RTL design, and advanced quantum-secure communication protocols.  
+- 📚 **Education:** B.Sc. in Electrical & Electronic Engineering (AIUB) | **CGPA:** 3.28/4.00  
+- 🏆 **Publications:** IEEE ICPEICES 2024 (*Nutritional Information Extraction from Packaged Food Labels*).  
 
 <div align="center">
   <img src="https://img.shields.io/badge/Specialized in-Semiconductor Technology-blue?style=for-the-badge&logo=semiconductor-manufacturing" />
@@ -41,10 +42,12 @@
 ---
 
 ## 🏆 **Achievements**
-- 🥇 **Published Research:** *Nutritional Information Extraction from Packaged Food Labels* – IEEE ICPEICES 2024.  
+
+- 🥇 **Published Research:** IEEE ICPEICES 2024 - *Nutritional Information Extraction from Packaged Food Labels*.  
 - 🎖️ **Trainee Engineer:** DESCO – Improved power distribution efficiency by 10%.  
 - 🔬 **Capstone Project:** Developed IoT-based systems for power theft protection and energy optimization.  
-- 🛠️ **RTL Trainee:** Focused on optimized Register Transfer Level (RTL) hardware design flows.  
+- 🛠️ **RTL Trainee:** Gained hands-on experience in RTL hardware design and verification.  
+- 🎓 **Academic Highlights:** Achieved A+ in courses like Power Systems Analysis, VLSI Design, and Capstone Projects.
 
 ---
 
@@ -66,27 +69,25 @@
 - **Quantum Computing Security**: Algorithms for secure quantum communication systems.  
 
 ### 📜 Certifications:
-- **Google Project Management**  
+- **Google Project Management Certificate**  
 - **Semiconductor Fabrication 101** (Purdue University)  
 - **Google IT Support Professional Certificate**  
 
 ---
 
+## 💻 **Work Experience**
+
+- **Trainee Engineer, DESCO (2022):** Conducted grid management and maintenance, optimizing power distribution efficiency by 10%.  
+- **RTL Trainee:** Focused on Register Transfer Level (RTL) design and verification workflows, ensuring high-performance hardware solutions.  
+
+---
+
 ## 📊 **GitHub Stats**
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shaikh-eamin&show_icons=true&theme=radical" alt="Shaikh's GitHub Stats" />
-  
-  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikh-eamin&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikh-eamin&layout=compact&theme=radical" alt="Top Languages" />
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikh-eamin&theme=radical" alt="Shaikh's Streak Stats" />
 </div>
-
 
 ---
 
