@@ -187,9 +187,23 @@
 ## 🌐 **Connect with Me**
 
 <div align="center">
-  <a href="mailto:Eamineee19@gmail.com"><img src="https://img.shields.io/badge/Email-Eamineee19@gmail.com-red?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/shaikh-eamin/"><img src="https://img.shields.io/badge/LinkedIn-Shaikh%20Eamin-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/ShaikhEamin"><img src="https://img.shields.io/badge/GitHub-ShaikhEamin-black?style=flat&logo=github" /></a>
+
+  <a href="mailto:Eamineee19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Eamineee19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/shaikh-eamin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shaikh%20Eamin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/ShaikhEamin">
+    <img src="https://img.shields.io/badge/GitHub-ShaikhEamin-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://wa.me/8801980126253">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
 </div>
 
 ---
