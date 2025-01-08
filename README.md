@@ -120,40 +120,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <h2>📈 GitHub Stats & Activity</h2>
-  
-  <!-- General Stats -->
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShaikhEamin&show_icons=true&theme=radical" alt="Shaikh's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhEamin&layout=compact&theme=radical&langs_count=10" alt="Shaikh's Top Languages" />
-  </p>
-
-  <!-- Contribution Streak -->
-  <p>
-    <img src="https://streak-stats.demolab.com?user=ShaikhEamin&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Shaikh's Streak Stats" />
-  </p>
-
-  <!-- Trophies -->
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=ShaikhEamin&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="Shaikh's Trophies" />
-  </p>
-
-  <!-- Activity Graph -->
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaikhEamin&theme=radical&hide_border=true" alt="Shaikh's GitHub Activity Graph" />
-  </p>
-
-  <!-- WakaTime Stats -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShaikhEamin&theme=radical&langs_count=8" alt="Shaikh's WakaTime Stats" />
-  </p>
-
-
----
-
 ## ✨ **Fun Facts**
 
 - 🎨 I enjoy creating tech-inspired artwork.  
@@ -162,9 +128,7 @@
 
 ---
 
-
 ## 🌐 **Connect with Me**
-
 
 <div align="center">
   <a href="mailto:Eamineee19@gmail.com">
@@ -206,4 +170,3 @@
     </a>
   </p>
 </div>
-
