@@ -188,6 +188,26 @@
 ---
 
 <div align="center">
-  <i>"千里之行，始于足下" (A journey of a thousand miles begins with a single step).</i>  
-  <h3>✨ Let's Innovate Together! ✨</h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+  <i><h2>"千里之行，始于足下" (A journey of a thousand miles begins with a single step).</h2></i>
+  
+  <img src="https://media.giphy.com/media/dy2RaYdX7GzVzvh1Zi/giphy.gif" width="300">
+  
+  <h3>🌟 <strong>Let's Innovate Together!</strong> 🌟</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/-Quantum%20Computing-blueviolet?style=for-the-badge&logo=quantum-computing&logoColor=white">
+    <img src="https://img.shields.io/badge/-VLSI%20Design-critical?style=for-the-badge&logo=semiconductor-manufacturing&logoColor=white">
+    <img src="https://img.shields.io/badge/-RTL%20Design-blue?style=for-the-badge&logo=verilog&logoColor=white">
+  </p>
+  
+  <p align="center">
+    <a href="#connect-with-me">
+      <img src="https://img.shields.io/badge/Connect%20With%20Me-LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    </a>
+    <a href="#featured-projects">
+      <img src="https://img.shields.io/badge/Check%20My%20Projects-GitHub-black?style=for-the-badge&logo=github">
+    </a>
+  </p>
 </div>
+
