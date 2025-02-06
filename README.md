@@ -37,12 +37,13 @@
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-green?style=for-the-badge&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-yellow?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Cadence](https://img.shields.io/badge/Cadence-blueviolet?style=for-the-badge&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium Designer-orange?style=for-the-badge&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-orange?style=for-the-badge&logoColor=white)
+
 
 ### Hardware & System Design:
-![FPGA](https://img.shields.io/badge/FPGA Design-critical?style=for-the-badge&logo=intel&logoColor=white)
-![PCB Design](https://img.shields.io/badge/PCB Design-darkblue?style=for-the-badge&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT Systems-lightgrey?style=for-the-badge&logoColor=black)
+[![FPGA Design](https://img.shields.io/badge/FPGA%20Design-critical?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/programmable/fpga.html)
+[![PCB Design](https://img.shields.io/badge/PCB%20Design-darkblue?style=for-the-badge&logoColor=white)](https://www.altium.com/)
+[![IoT Systems](https://img.shields.io/badge/IoT%20Systems-lightgrey?style=for-the-badge&logoColor=black)](https://www.theiotacademy.co/)
 
 ---
 
