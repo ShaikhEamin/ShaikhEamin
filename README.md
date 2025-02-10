@@ -2,6 +2,7 @@
   <h1>👋 Hi, I'm Shaikh Eamin!</h1>
   <h3>🎓 Electrical & Electronics Engineer | 🔒 RTL Designer & Quantum Computer Security Analyst</h3>
   <p>🔬 Passionate about <strong>RTL Design</strong>, <strong>Semiconductor Technology</strong>, <strong>Quantum Computing</strong>, and <strong>IoT Systems</strong>.</p>
+  <p>🚀 Building the future of quantum-secure systems and energy-efficient hardware.</p>
 </div>
 
 ---
@@ -9,10 +10,10 @@
 ## 🏅 **Profile Highlights**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/RTL Design-Specialist-blue?style=for-the-badge&logo=verilog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quantum Security-Analyst-red?style=for-the-badge&logo=quantum-computing" />
-  <img src="https://img.shields.io/badge/VLSI Technology-Enthusiast-green?style=for-the-badge&logo=semiconductor-manufacturing" />
-  <img src="https://img.shields.io/badge/IoT Systems-Innovator-orange?style=for-the-badge&logo=iot" />
+  <img src="https://img.shields.io/badge/RTL%20Design-Specialist-blue?style=for-the-badge&logo=verilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantum%20Security-Analyst-red?style=for-the-badge&logo=quantum-computing" />
+  <img src="https://img.shields.io/badge/VLSI%20Technology-Enthusiast-green?style=for-the-badge&logo=semiconductor-manufacturing" />
+  <img src="https://img.shields.io/badge/IoT%20Systems-Innovator-orange?style=for-the-badge&logo=iot" />
 </div>
 
 ---
@@ -38,7 +39,6 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-yellow?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Cadence](https://img.shields.io/badge/Cadence-blueviolet?style=for-the-badge&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-orange?style=for-the-badge&logoColor=white)
-
 
 ### Hardware & System Design:
 [![FPGA Design](https://img.shields.io/badge/FPGA%20Design-critical?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/programmable/fpga.html)
@@ -172,3 +172,29 @@
   </p>
 </div>
 
+---
+
+### New Additions:
+
+## 📚 **Currently Learning**
+- Advanced Quantum Algorithms
+- Low-Power VLSI Design Techniques
+- Rust Programming Language
+
+---
+
+## 🤝 **Collaboration Opportunities**
+I'm always excited to collaborate on projects related to quantum computing, IoT, or RTL design. If you have an idea or project, feel free to reach out!
+
+---
+
+## 📰 **Featured In**
+- [IEEE ICPEICES 2024](link): Presented research on quantum security.
+- [Tech Innovators Podcast](link): Discussed the future of IoT.
+
+---
+
+## 🎶 **Currently Listening**
+![Spotify](https://spotify-now-playing-yourusername.vercel.app/api/spotify)
+
+---
