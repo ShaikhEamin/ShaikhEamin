@@ -1,112 +1,74 @@
 <div align="center">
   <a href="https://github.com/ShaikhEamin">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=94E2D5&center=true&width=550&lines=Hi%2C+I'm+Shaikh+Eamin+👋;RTL+Designer+%26+VLSI+Enthusiast;Quantum+Security+Analyst;Building+Tomorrow's+Hardware" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="#-lets-connect">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-blueviolet?style=for-the-badge&logo=github-sponsors" alt="Status"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=E0DEF4&center=true&width=600&lines=Hi%2C+I'm+Shaikh+Eamin+👋;RTL+Designer+%7C+Quantum+Security+Analyst;Pioneering+Quantum-Resistant+Hardware" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  I am an Electrical Engineer pioneering the future of <b>quantum-secure hardware</b> and <b>energy-efficient semiconductors</b>.
-  <br> My work lives at the nexus of RTL design, VLSI, and post-quantum cryptography.
+  <a href="https://github.com/ShaikhEamin?tab=repositories"><img src="https://img.shields.io/badge/Projects-302D41?style=for-the-badge&logo=googledocs&logoColor=c9cbff"></a>
+  <a href="https://www.linkedin.com/in/shaikh-eamin/"><img src="https://img.shields.io/badge/LinkedIn-302D41?style=for-the-badge&logo=linkedin&logoColor=c9cbff"></a>
+  <a href="mailto:Eamineee19@gmail.com"><img src="https://img.shields.io/badge/Email_Me-302D41?style=for-the-badge&logo=gmail&logoColor=c9cbff"></a>
+  <a href="#-my-digital-footprint"><img src="https://img.shields.io/badge/More-302D41?style=for-the-badge&logo=read-the-docs&logoColor=c9cbff"></a>
 </p>
 
 ---
 
 <table width="100%" border="0">
-  <tr>
-    <td width="65%" valign="top">
-      
-### 🛠️ My Skillset: An Interactive Overview
-<details>
-  <summary><b>Hardware, RTL & VLSI Design</b></summary>
-  <p>
-    <code>SystemVerilog</code> <code>FPGA Design</code> <code>ASIC Flow</code> <code>Low-Power VLSI</code> <code>PCB Design</code>
-  </p>
-</details>
-<details>
-  <summary><b>Quantum & Algorithmic Design</b></summary>
-  <p>
-    <code>Post-Quantum Cryptography</code> <code>Qiskit</code> <code>Quantum Machine Learning</code> <code>MATLAB</code>
-  </p>
-</details>
-<details>
-  <summary><b>Software, Tools & Platforms</b></summary>
-  <p>
-    <code>Python</code> <code>Rust</code> <code>C++</code> <code>Cadence</code> <code>Git</code> <code>Docker</code> <code>Altium Designer</code>
-  </p>
-</details>
+<tr valign="top">
+<td width="65%">
+
+### <a id="-about-me"></a>👨‍💻 About Me
+I am an Electrical Engineer obsessed with the future of computing. My expertise lies in designing and verifying **RTL for high-performance, low-power hardware** and analyzing **post-quantum cryptographic systems**. I thrive on complex challenges, whether it's optimizing a Verilog module for nanosecond-level performance or developing protocols to secure data against quantum threats.
 
 <br>
-      
-### 🚀 Project Spotlights
-<table width="100%" border="0">
-  <tr valign="top">
-    <td width="50%">
-      <div style="border:1px solid #cba6f7; border-radius:10px; padding:15px;">
-        <h4>🔒 Quantum-Resistant Communication Protocol</h4>
-        <p>Developed and analyzed a low-power cryptographic protocol for secure communication in the quantum era. Published in IEEE.</p>
-        <p><b>Tech:</b> <code>Python</code> <code>MATLAB</code> <code>Cryptography</code></p>
-        <a href="[LINK-TO-YOUR-PAPER]"><img src="https://img.shields.io/badge/Read_Paper-e64553?style=flat-square&logo=googlescholar"></a>
-      </div>
-    </td>
-    <td width="50%">
-      <div style="border:1px solid #89dceb; border-radius:10px; padding:15px;">
-        <h4>⚡ FPGA-Accelerated IoT System</h4>
-        <p>Designed a custom IoT solution on an FPGA, optimizing data processing by 10% and enabling real-time energy monitoring.</p>
-        <p><b>Tech:</b> <code>SystemVerilog</code> <code>FPGA</code> <code>IoT</code> <code>Python</code></p>
-        <a href="[LINK-TO-YOUR-REPO]"><img src="https://img.shields.io/badge/View_Code-4c4f69?style=flat-square&logo=github"></a>
-      </div>
-    </td>
-  </tr>
+
+### <a id="-the-now-section"></a>💡 The "Now" Section
+
+<table width="100%">
+<tr valign="top">
+<td width="50%">
+  **Current Focus**
+  - Advanced Low-Power VLSI Methodologies
+  - Lattice-Based Cryptography
+  - Rust for Embedded Systems
+
+  **Currently Reading**
+  - 📖 *Quantum Computing for Computer Scientists* by N. Yanofsky
+</td>
+<td width="50%">
+  **My Local Time**
+  <div>
+    <a href="https://time.is/Khulna_Bangladesh" title="Time in Khulna, Bangladesh">
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=clock&logoColor=white&label=Local%20Time&query=%24.time&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FDhaka" alt="My Local Time">
+    </a>
+  </div>
+
+  **Currently Listening**
+  <div>
+    <a href="https://open.spotify.com/user/your-spotify-user-id" title="My Spotify">
+      <img src="https://spotify-now-playing-yourusername.vercel.app/api/spotify" alt="Spotify Now Playing" width="350">
+    </a>
+  </div>
+</td>
+</tr>
 </table>
 
 <br>
 
-### 🌐 My Digital Footprint
-<p align="left">
-  <a href="https://github.com/ShaikhEamin"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/shaikh-eamin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="[LINK-TO-YOUR-GOOGLE-SCHOLAR]"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="mailto:Eamineee19@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+### 🚀 Featured Project: Quantum-Resistant Protocol
+*A low-power cryptographic protocol designed for secure IoT communication in a post-quantum world.*
+<details>
+<summary>Click to view architecture & details</summary>
 
-    </td>
-    <td width="35%" valign="top">
-      
-### 📊 My GitHub DNA
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaikhEamin&show_icons=true&theme=catppuccin_latte&hide_border=true&border_radius=10" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhEamin&layout=compact&theme=catppuccin_latte&hide_border=true&border_radius=10" alt="Top Languages"/>
-</div>
+Here's a simplified view of the key exchange process:
 
-<br>
-      
-### 💻 My Coding Activity
-<div align="center">
-  <a href="https://wakatime.com/@ShaikhEamin">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShaikhEamin&theme=catppuccin_latte&hide_border=true&border_radius=10&layout=compact" alt="WakaTime Stats"/>
-  </a>
-</div>
+```mermaid
+graph TD
+    A[IoT Device] -->|Public Key + Encrypted Nonce| B(Server);
+    B -->|Generates Session Key| B;
+    B -->|Encrypted Session Key| A;
+    A -->|Decrypts & Verifies| A;
+    A <-->|Secure Communication| B;
 
-    </td>
-  </tr>
-</table>
-
----
-
-### <a id="-lets-connect"></a>🤝 Let's Connect and Innovate
-I'm actively seeking collaborations on ambitious projects, especially in:
--   **Quantum Computing:** Developing novel PQC algorithms or quantum hardware interfaces.
--   **VLSI/RTL:** Designing next-gen, low-power ASICs or FPGAs.
--   **Secure IoT:** Building end-to-end secure and intelligent systems.
-
-<p align="center">
-  <b>Have a challenge? Let's engineer a solution.</b>
-  <br><br>
-  <img src="https://media.giphy.com/media/dy2RaYdX7GzVzvh1Zi/giphy.gif" width="400">
-</p>
+    style A fill:#31748f,stroke:#333,stroke-width:2px
+    style B fill:#e69875,stroke:#333,stroke-width:2px
