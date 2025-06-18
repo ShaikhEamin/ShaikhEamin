@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ShaikhEamin">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=E0DEF4&center=true&width=600&lines=Hi%2C+I'm+Shaikh+Eamin+👋;RTL+Designer+%7C+Quantum+Security+Analyst;Pioneering+Quantum-Resistant+Hardware" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=E0DEF4&center=true&width=600&lines=Hi%2C+I'm+Shaikh+Eamin+👋;RTL+Designer+%7C;Quantum+Security+Analyst;Pioneering+Quantum-Resistant+Hardware" alt="Typing SVG" />
   </a>
 </div>
 
