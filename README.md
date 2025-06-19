@@ -8,23 +8,22 @@
   I am an Electrical & Electronics Engineer passionate about building the future of <b>quantum-secure systems</b> and <b>energy-efficient hardware</b>.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shaikh-eamin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/ShaikhEamin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:Eamineee19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/8801980126253"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/rE3b2z3.png" alt="divider" width="100%"/>
+</div>
+
+### 💡 My Engineering Philosophy
+> I believe in engineering by first principles. The most robust and elegant solutions emerge from a deep understanding of the fundamentals, whether in semiconductor physics or cryptographic protocols. My work is driven by a commitment to efficiency by design and security by default.
 
 <div align="center">
   <img src="https://i.imgur.com/rE3b2z3.png" alt="divider" width="100%"/>
 </div>
 
-### 👨‍💻 About Me
+
+### 👨‍💻 About Me & Achievements
 I hold a **B.Sc. in Electrical & Electronic Engineering** from AIUB (CGPA: 3.28/4.00), specializing in RTL Design, VLSI, and Quantum Computing Security. My goal is to engineer the hardware that will power the next generation of secure, intelligent technology. I'm also a strong advocate for sustainable electronics and enjoy creating tech-inspired artwork. 🎨
 
-<br>
-
-### 🏆 Key Achievements & Certifications
+<h4>🏆 Key Achievements & Certifications</h4>
 <ul>
   <li><b>Published Research:</b> My work on *Nutritional Information Extraction* was published in IEEE ICPEICES 2024.</li>
   <li><b>Trainee Engineer at DESCO:</b> Enhanced power distribution efficiency by 10%.</li>
@@ -76,6 +75,7 @@ I hold a **B.Sc. in Electrical & Electronic Engineering** from AIUB (CGPA: 3.28/
   <p>An IoT-based system leveraging piezoelectric sensors for real-time theft prevention and notification.</p>
   <p><b>⭐ Key Feature:</b> Reduced energy theft by 30% through immediate alerts and automated logging.</p>
   <p><b>Tech Used:</b> <img src="https://img.shields.io/badge/Verilog-019267?style=flat-square&logo=verilog"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"> <img src="https://img.shields.io/badge/IoT-43B02A?style=flat-square&logo=iot"></p>
+  <p><a href="[LINK-TO-CODE-SNIPPET]"><b>[View a Key Snippet]</b></a> • <a href="[LINK-TO-DEMO]"><b>[Live Demo / Simulation]</b></a></p>
 </div>
 
 <div style="border:1px solid #665c54; border-radius:10px; padding: 20px; margin-bottom: 20px;">
@@ -83,6 +83,7 @@ I hold a **B.Sc. in Electrical & Electronic Engineering** from AIUB (CGPA: 3.28/
   <p>Designed and analyzed cryptographic algorithms for secure communication channels in a post-quantum world.</p>
   <p><b>⭐ Key Feature:</b> Developed novel low-power encryption protocols suitable for resource-constrained devices.</p>
   <p><b>Tech Used:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks"></p>
+  <p><a href="[LINK-TO-CODE-SNIPPET]"><b>[View a Key Snippet]</b></a> • <a href="[LINK-TO-DEMO]"><b>[Live Demo / Simulation]</b></a></p>
 </div>
 
 <div style="border:1px solid #665c54; border-radius:10px; padding: 20px; margin-bottom: 20px;">
@@ -90,27 +91,35 @@ I hold a **B.Sc. in Electrical & Electronic Engineering** from AIUB (CGPA: 3.28/
   <p>Engineered smart IoT solutions on FPGAs, optimizing for higher data processing speeds and greater energy efficiency.</p>
   <p><b>⭐ Key Feature:</b> Achieved 10% faster data processing compared to traditional microcontroller-based systems.</p>
   <p><b>Tech Used:</b> <img src="https://img.shields.io/badge/Verilog-019267?style=flat-square&logo=verilog"> <img src="https://img.shields.io/badge/FPGA-002D62?style=flat-square&logo=intel"> <img src="https://img.shields.io/badge/IoT-43B02A?style=flat-square&logo=iot"></p>
+  <p><a href="[LINK-TO-CODE-SNIPPET]"><b>[View a Key Snippet]</b></a> • <a href="[LINK-TO-DEMO]"><b>[Live Demo / Simulation]</b></a></p>
 </div>
 
 <div align="center">
   <img src="https://i.imgur.com/rE3b2z3.png" alt="divider" width="100%"/>
 </div>
 
-### 📈 My Developer Metrics & Activity
+### 📈 My Developer Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShaikhEamin&show_icons=true&theme=gruvbox&hide_border=true&border_radius=10" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhEamin&layout=compact&theme=gruvbox&hide_border=true&border_radius=10" alt="Top Languages"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShaikhEamin&theme=gruvbox&hide_border=true&border_radius=10&layout=compact" alt="WakaTime Stats"/>
-</p>
+  </p>
 
 <div align="center">
   <img src="https://i.imgur.com/rE3b2z3.png" alt="divider" width="100%"/>
 </div>
 
-### 🎯 My Career Roadmap & Vision
-My short-term goals include publishing new research, mastering advanced VLSI tools, and beginning a Master's program. In the long term, my vision is to lead a startup focused on developing quantum-secure IoT systems and innovative, energy-efficient semiconductor solutions.
+### 🌐 My Digital Footprint
+I'm always excited to collaborate on innovative projects. Feel free to reach out!
+<p align="center">
+  <a href="https://github.com/ShaikhEamin" title="GitHub"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/shaikh-eamin/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="[LINK-TO-STACKOVERFLOW]"><img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow"></a>
+  <a href="[LINK-TO-YOUR-IEEE-PUBLICATION]"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee" alt="IEEE Publication"></a>
+  <a href="[LINK-TO-YOUR-PODCAST-FEATURE]"><img src="https://img.shields.io/badge/Podcast-9933CC?style=for-the-badge&logo=podcast-addict" alt="Podcast"></a>
+</p>
 
-<br>
 <div align="center">
   <i><h3>"千里之行，始于足下"</h3></i>
   <i>(A journey of a thousand miles begins with a single step)</i>
