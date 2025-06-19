@@ -54,24 +54,30 @@ I hold a <b>B.Sc. in Electrical & Electronic Engineering</b> from AIUB (CGPA: 3.
 <details>
   <summary><b>💻 Programming & Tools</b></summary>
   <p>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python">
-    <img src="https://img.shields.io/badge/-SystemVerilog-019267?style=flat-square&logo=verilog" alt="SystemVerilog">
-    <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks" alt="MATLAB">
-    <img src="https://img.shields.io/badge/-Cadence-522E8E?style=flat-square&logo=cadence-design-systems" alt="Cadence">
-    <img src="https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=altium-designer" alt="Altium Designer">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" alt="Git">
+    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/SystemVerilog-019267?style=for-the-badge&logo=verilog&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Cadence-522E8E?style=for-the-badge&logo=cadence-design-systems&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   </p>
 </details>
 <details>
   <summary><b>⚙️ Hardware & System Design</b></summary>
   <p>
-    <code>RTL Design</code> <code>FPGA Design</code> <code>VLSI Design</code> <code>PCB Design</code> <code>IoT Systems</code>
+    <a href="#"><img src="https://img.shields.io/badge/RTL%20Design-1C598E?style=for-the-badge&logo=verilog&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/FPGA%20Design-002D62?style=for-the-badge&logo=intel&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/VLSI%20Design-7C4DFF?style=for-the-badge&logo=e-learning&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/PCB%20Design-B38B59?style=for-the-badge&logo=altium-designer&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/IoT%20Systems-43B02A?style=for-the-badge&logo=iot&logoColor=white"></a>
   </p>
 </details>
 <details>
   <summary><b>🧠 Currently Learning</b></summary>
   <p>
-    <code>Advanced Quantum Algorithms</code> <code>Low-Power VLSI Techniques</code> <code>Rust Programming</code>
+    <a href="#"><img src="https://img.shields.io/badge/Advanced%20Quantum-5E2750?style=for-the-badge&logo=ibm&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Low--Power%20VLSI-C00000?style=for-the-badge&logo=e-learning&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
   </p>
 </details>
 
@@ -105,24 +111,24 @@ I hold a <b>B.Sc. in Electrical & Electronic Engineering</b> from AIUB (CGPA: 3.
       <div style="border:1px solid #c9cbff; border-radius:10px; padding:15px; height: 100%;">
         <h4>🚀 IoT Power Theft Protection</h4>
         <p>IoT-based system leveraging piezoelectric sensors for real-time theft prevention.</p>
-        <p><b>Key Feature:</b> Reduced energy theft by 30%.</p>
-        <p><b>Tech Used:</b> <code>Verilog</code> <code>Python</code> <code>IoT</code></p>
+        <p><b>⭐ Key Feature:</b> Reduced energy theft by 30%.</p>
+        <p><b>Tech Used:</b> <img src="https://img.shields.io/badge/Verilog-019267?style=flat-square&logo=verilog"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"> <img src="https://img.shields.io/badge/IoT-43B02A?style=flat-square&logo=iot"></p>
       </div>
     </td>
     <td width="33%" style="padding:10px;">
       <div style="border:1px solid #c9cbff; border-radius:10px; padding:15px; height: 100%;">
         <h4>🔒 Quantum Security Algorithms</h4>
         <p>Design and analysis of cryptographic algorithms for quantum-secure communication.</p>
-        <p><b>Key Feature:</b> Low-power encryption protocols.</p>
-        <p><b>Tech Used:</b> <code>Python</code> <code>MATLAB</code></p>
+        <p><b>⭐ Key Feature:</b> Low-power encryption protocols.</p>
+        <p><b>Tech Used:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks"></p>
       </div>
     </td>
     <td width="33%" style="padding:10px;">
       <div style="border:1px solid #c9cbff; border-radius:10px; padding:15px; height: 100%;">
         <h4>⚡ FPGA-Based IoT Systems</h4>
         <p>Smart IoT solutions leveraging FPGAs for energy optimization and faster processing.</p>
-        <p><b>Key Feature:</b> 10% faster data processing.</p>
-        <p><b>Tech Used:</b> <code>Verilog</code> <code>FPGA</code> <code>IoT</code></p>
+        <p><b>⭐ Key Feature:</b> 10% faster data processing.</p>
+        <p><b>Tech Used:</b> <img src="https://img.shields.io/badge/Verilog-019267?style=flat-square&logo=verilog"> <img src="https://img.shields.io/badge/FPGA-002D62?style=flat-square&logo=intel"> <img src="https://img.shields.io/badge/IoT-43B02A?style=flat-square&logo=iot"></p>
       </div>
     </td>
   </tr>
@@ -134,15 +140,15 @@ I hold a <b>B.Sc. in Electrical & Electronic Engineering</b> from AIUB (CGPA: 3.
 
 I'm always excited to collaborate on innovative projects. Feel free to reach out!
 <p>
-  <a href="https://github.com/ShaikhEamin" title="GitHub"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/shaikh-eamin/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:Eamineee19@gmail.com" title="Email"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://wa.me/8801980126253" title="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp"></a>
+  <a href="https://github.com/ShaikhEamin" title="GitHub"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/shaikh-eamin/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:Eamineee19@gmail.com" title="Email"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://wa.me/8801980126253" title="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp"></a>
 </p>
 <p>
   <b>📰 Featured In:</b>
-  <a href="[LINK-TO-YOUR-IEEE-PUBLICATION]"><img src="https://img.shields.io/badge/IEEE%20ICPEICES%202024-00629B?style=flat-square&logo=ieee" alt="IEEE Publication"></a>
-  <a href="[LINK-TO-YOUR-PODCAST-FEATURE]"><img src="https://img.shields.io/badge/Tech%20Innovators%20Podcast-9933CC?style=flat-square&logo=podcast-addict" alt="Podcast"></a>
+  <a href="[LINK-TO-YOUR-IEEE-PUBLICATION]"><img src="https://img.shields.io/badge/IEEE%20ICPEICES%202024-00629B?style=for-the-badge&logo=ieee" alt="IEEE Publication"></a>
+  <a href="[LINK-TO-YOUR-PODCAST-FEATURE]"><img src="https://img.shields.io/badge/Tech%20Innovators%20Podcast-9933CC?style=for-the-badge&logo=podcast-addict" alt="Podcast"></a>
 </p>
 
 ---
