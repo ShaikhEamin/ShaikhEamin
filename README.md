@@ -1,14 +1,11 @@
 <div align="center">
   <a href="https://github.com/ShaikhEamin">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=E0DEF4&center=true&width=600&lines=Hi%2C+I'm+Shaikh+Eamin+👋;RTL+Designer+%7C;Quantum+Security+Analyst;Pioneering+Quantum-Resistant+Hardware" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=E0DEF4&center=true&width=600&lines=Hi%2C+I'm+Shaikh+Eamin+👋;RTL+Designer+%7C+VLSI+Enthusiast;Quantum+Security+Analyst+%7C+IoT+Innovator" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://github.com/ShaikhEamin?tab=repositories"><img src="https://img.shields.io/badge/Projects-302D41?style=for-the-badge&logo=googledocs&logoColor=c9cbff"></a>
-  <a href="https://www.linkedin.com/in/shaikh-eamin/"><img src="https://img.shields.io/badge/LinkedIn-302D41?style=for-the-badge&logo=linkedin&logoColor=c9cbff"></a>
-  <a href="mailto:Eamineee19@gmail.com"><img src="https://img.shields.io/badge/Email_Me-302D41?style=for-the-badge&logo=gmail&logoColor=c9cbff"></a>
-  <a href="#-my-digital-footprint"><img src="https://img.shields.io/badge/More-302D41?style=for-the-badge&logo=read-the-docs&logoColor=c9cbff"></a>
+  I am an Electrical & Electronics Engineer passionate about building the future of <b>quantum-secure systems</b> and <b>energy-efficient hardware</b>.
 </p>
 
 ---
@@ -18,57 +15,145 @@
 <td width="65%">
 
 ### <a id="-about-me"></a>👨‍💻 About Me
-I am an Electrical Engineer obsessed with the future of computing. My expertise lies in designing and verifying **RTL for high-performance, low-power hardware** and analyzing **post-quantum cryptographic systems**. I thrive on complex challenges, whether it's optimizing a Verilog module for nanosecond-level performance or developing protocols to secure data against quantum threats.
+I hold a <b>B.Sc. in Electrical & Electronic Engineering</b> from AIUB (CGPA: 3.28/4.00) and specialize in RTL Design, VLSI, and Quantum Computing Security. My goal is to engineer the hardware that will power the next generation of secure, intelligent technology. 
+<br>
+*Fun Fact: I'm an advocate for sustainable electronics and enjoy creating tech-inspired artwork.* 🎨
+
+<details>
+<summary><b>🏆 View My Key Achievements & Certifications</b></summary>
+  <ul>
+    <li><b>Published Research:</b> My work on *Nutritional Information Extraction* was published in IEEE ICPEICES 2024.</li>
+    <li><b>Trainee Engineer at DESCO:</b> Enhanced power distribution efficiency by 10%.</li>
+    <li><b>Capstone Project Lead:</b> Designed an IoT-based theft detection system that reduced energy theft by 30%.</li>
+    <li><b>Academic Excellence:</b> Achieved A+ grades in Power Systems Analysis and VLSI Design.</li>
+    <li><b>Certifications:</b> Google Project Management, Semiconductor Fabrication 101 (Purdue), Google IT Support Professional.</li>
+  </ul>
+</details>
 
 <br>
 
-### <a id="-the-now-section"></a>💡 The "Now" Section
-
+### 🎯 My Career Roadmap
 <table width="100%">
 <tr valign="top">
 <td width="50%">
-  **Current Focus**
-  - Advanced Low-Power VLSI Methodologies
-  - Lattice-Based Cryptography
-  - Rust for Embedded Systems
-
-  **Currently Reading**
-  - 📖 *Quantum Computing for Computer Scientists* by N. Yanofsky
+  **2025 Goals**
+  - Publish new research on quantum security & RTL efficiency.
+  - Master advanced FPGA and low-power VLSI design tools.
+  - Begin a Master’s program in VLSI or Quantum Computing.
 </td>
 <td width="50%">
-  **My Local Time**
-  <div>
-    <a href="https://time.is/Khulna_Bangladesh" title="Time in Khulna, Bangladesh">
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=clock&logoColor=white&label=Local%20Time&query=%24.time&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FDhaka" alt="My Local Time">
-    </a>
-  </div>
-
-  **Currently Listening**
-  <div>
-    <a href="https://open.spotify.com/user/your-spotify-user-id" title="My Spotify">
-      <img src="https://spotify-now-playing-yourusername.vercel.app/api/spotify" alt="Spotify Now Playing" width="350">
-    </a>
-  </div>
+  **10-Year Vision**
+  - Lead a startup focused on developing quantum-secure IoT systems and innovative, energy-efficient semiconductor solutions.
 </td>
 </tr>
 </table>
 
 <br>
 
-### 🚀 Featured Project: Quantum-Resistant Protocol
-*A low-power cryptographic protocol designed for secure IoT communication in a post-quantum world.*
+### 🛠️ My Technical Skills
 <details>
-<summary>Click to view architecture & details</summary>
+  <summary><b>Programming & Tools</b></summary>
+  <p>
+    <code>Python</code> <code>SystemVerilog</code> <code>MATLAB</code> <code>Cadence</code> <code>Altium Designer</code> <code>Git</code>
+  </p>
+</details>
+<details>
+  <summary><b>Hardware & System Design</b></summary>
+  <p>
+    <code>RTL Design</code> <code>FPGA Design</code> <code>VLSI Design</code> <code>PCB Design</code> <code>IoT Systems</code>
+  </p>
+</details>
+<details>
+  <summary><b>Currently Learning</b></summary>
+  <p>
+    <code>Advanced Quantum Algorithms</code> <code>Low-Power VLSI Techniques</code> <code>Rust Programming</code>
+  </p>
+</details>
 
-Here's a simplified view of the key exchange process:
+</td>
+<td width="35%" valign="top">
 
-```mermaid
-graph TD
-    A[IoT Device] -->|Public Key + Encrypted Nonce| B(Server);
-    B -->|Generates Session Key| B;
-    B -->|Encrypted Session Key| A;
-    A -->|Decrypts & Verifies| A;
-    A <-->|Secure Communication| B;
+### ⚡ My Live Status
+**My Local Time**
+<div>
+  <a href="https://time.is/Khulna_Bangladesh" title="Time in Khulna, Bangladesh">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=clock&logoColor=white&label=Local%20Time&query=%24.time&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FDhaka" alt="My Local Time">
+  </a>
+</div>
+<br>
+**Recent Activity**
+<br>
+**Developer Metrics**
+<details>
+<summary>Click to expand</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ShaikhEamin&show_icons=true&theme=rose_pine&hide_border=true&border_radius=10" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhEamin&layout=compact&theme=rose_pine&hide_border=true&border_radius=10" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShaikhEamin&theme=rose_pine&hide_border=true&border_radius=10&layout=compact" alt="WakaTime Stats"/>
+  </p>
+</details>
 
-    style A fill:#31748f,stroke:#333,stroke-width:2px
-    style B fill:#e69875,stroke:#333,stroke-width:2px
+</td>
+</tr>
+</table>
+
+---
+
+### 📂 Featured Projects
+<table width="100%" border="0" style="border-collapse: collapse;">
+  <tr valign="top">
+    <td width="33%" style="padding:10px;">
+      <div style="border:1px solid #c9cbff; border-radius:10px; padding:15px; height: 100%;">
+        <h4>🚀 IoT Power Theft Protection</h4>
+        <p>IoT-based system leveraging piezoelectric sensors for real-time theft prevention.</p>
+        <p><b>Key Feature:</b> Reduced energy theft by 30%.</p>
+        <p><b>Tech Used:</b> <code>Verilog</code> <code>Python</code> <code>IoT</code></p>
+      </div>
+    </td>
+    <td width="33%" style="padding:10px;">
+      <div style="border:1px solid #c9cbff; border-radius:10px; padding:15px; height: 100%;">
+        <h4>🔒 Quantum Security Algorithms</h4>
+        <p>Design and analysis of cryptographic algorithms for quantum-secure communication.</p>
+        <p><b>Key Feature:</b> Low-power encryption protocols.</p>
+        <p><b>Tech Used:</b> <code>Python</code> <code>MATLAB</code></p>
+      </div>
+    </td>
+    <td width="33%" style="padding:10px;">
+      <div style="border:1px solid #c9cbff; border-radius:10px; padding:15px; height: 100%;">
+        <h4>⚡ FPGA-Based IoT Systems</h4>
+        <p>Smart IoT solutions leveraging FPGAs for energy optimization and faster processing.</p>
+        <p><b>Key Feature:</b> 10% faster data processing.</p>
+        <p><b>Tech Used:</b> <code>Verilog</code> <code>FPGA</code> <code>IoT</code></p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 My Digital Footprint & How to Connect
+I'm always excited to collaborate on innovative projects. Feel free to reach out!
+<p>
+  <a href="https://github.com/ShaikhEamin" title="GitHub"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/shaikh-eamin/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:Eamineee19@gmail.com" title="Email"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="https://wa.me/8801980126253" title="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp"></a>
+</p>
+<p>
+  <b>Featured In:</b>
+  <a href="[LINK-TO-YOUR-IEEE-PUBLICATION]"><img src="https://img.shields.io/badge/IEEE%20ICPEICES%202024-00629B?style=flat-square&logo=ieee" alt="IEEE Publication"></a>
+  <a href="[LINK-TO-YOUR-PODCAST-FEATURE]"><img src="https://img.shields.io/badge/Tech%20Innovators%20Podcast-9933CC?style=flat-square&logo=podcast-addict" alt="Podcast"></a>
+</p>
+
+---
+
+<div align="center">
+  <i><h3>"千里之行，始于足下"</h3></i>
+  <i>(A journey of a thousand miles begins with a single step)</i>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/ShaikhEamin/ShaikhEamin/main/grid-snake.svg" alt="snake">
+  </p>
+  <p>
+    <i>© 2025 Shaikh Eamin &nbsp;•&nbsp; Building the Future, One Line of Code at a Time</i>
+  </p>
+</div>
