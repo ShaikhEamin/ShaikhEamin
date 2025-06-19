@@ -53,45 +53,35 @@ I hold a <b>B.Sc. in Electrical & Electronic Engineering</b> from AIUB (CGPA: 3.
 <br>
 
 ### 🛠️ My Technical Skills
-<table width="100%" border="0">
-  <tr valign="top">
-    <td width="33%">
-      <details>
-        <summary><b>💻 Programming & Tools</b></summary>
-        <p>
-          <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/SystemVerilog-019267?style=for-the-badge&logo=verilog&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Cadence-522E8E?style=for-the-badge&logo=cadence-design-systems&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-        </p>
-      </details>
-    </td>
-    <td width="33%">
-      <details>
-        <summary><b>⚙️ Hardware & Systems</b></summary>
-        <p>
-          <a href="#"><img src="https://img.shields.io/badge/RTL%20Design-1C598E?style=for-the-badge&logo=verilog&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/FPGA%20Design-002D62?style=for-the-badge&logo=intel&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/VLSI%20Design-7C4DFF?style=for-the-badge&logo=e-learning&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/PCB%20Design-B38B59?style=for-the-badge&logo=altium-designer&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/IoT%20Systems-43B02A?style=for-the-badge&logo=iot&logoColor=white"></a>
-        </p>
-      </details>
-    </td>
-    <td width="33%">
-      <details>
-        <summary><b>🧠 Currently Learning</b></summary>
-        <p>
-          <a href="#"><img src="https://img.shields.io/badge/Advanced%20Quantum-5E2750?style=for-the-badge&logo=ibm&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Low--Power%20VLSI-C00000?style=for-the-badge&logo=e-learning&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
-        </p>
-      </details>
-    </td>
-  </tr>
-</table>
+<details>
+  <summary><b>💻 Programming & Tools</b></summary>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/SystemVerilog-019267?style=for-the-badge&logo=verilog&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Cadence-522E8E?style=for-the-badge&logo=cadence-design-systems&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  </p>
+</details>
+<details>
+  <summary><b>⚙️ Hardware & System Design</b></summary>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/RTL%20Design-1C598E?style=for-the-badge&logo=verilog&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/FPGA%20Design-002D62?style=for-the-badge&logo=intel&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/VLSI%20Design-7C4DFF?style=for-the-badge&logo=e-learning&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/PCB%20Design-B38B59?style=for-the-badge&logo=altium-designer&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/IoT%20Systems-43B02A?style=for-the-badge&logo=iot&logoColor=white"></a>
+  </p>
+</details>
+<details>
+  <summary><b>🧠 Currently Learning</b></summary>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/Advanced%20Quantum-5E2750?style=for-the-badge&logo=ibm&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Low--Power%20VLSI-C00000?style=for-the-badge&logo=e-learning&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
+  </p>
+</details>
 
 </td>
 <td width="35%" valign="top">
