@@ -9,14 +9,14 @@
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/rE3b2z3.png" alt="divider" width="100%"/>
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABDgAAAACCAYAAAD9TMcxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAaSURBVBhXY/iPC4YyMDIwMDAw/P//HwAUnwF/de7eYgAAAABJRU5ErkJggg==" alt="divider" />
 </div>
 
 ### 💡 My Engineering Philosophy
 > I believe in engineering by first principles. The most robust and elegant solutions emerge from a deep understanding of the fundamentals, whether in semiconductor physics or cryptographic protocols. My work is driven by a commitment to efficiency by design and security by default.
 
 <div align="center">
-  <img src="https://i.imgur.com/rE3b2z3.png" alt="divider" width="100%"/>
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABDgAAAACCAYAAAD9TMcxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAaSURBVBhXY/iPC4YyMDIwMDAw/P//HwAUnwF/de7eYgAAAABJRU5ErkJggg==" alt="divider" />
 </div>
 
 
@@ -33,7 +33,7 @@ I hold a **B.Sc. in Electrical & Electronic Engineering** from AIUB (CGPA: 3.28/
 </ul>
 
 <div align="center">
-  <img src="https://i.imgur.com/rE3b2z3.png" alt="divider" width="100%"/>
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABDgAAAACCAYAAAD9TMcxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAaSURBVBhXY/iPC4YyMDIwMDAw/P//HwAUnwF/de7eYgAAAABJRU5ErkJggg==" alt="divider" />
 </div>
 
 ### 🛠️ My Technical Skills
@@ -65,7 +65,7 @@ I hold a **B.Sc. in Electrical & Electronic Engineering** from AIUB (CGPA: 3.28/
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/rE3b2z3.png" alt="divider" width="100%"/>
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABDgAAAACCAYAAAD9TMcxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAaSURBVBhXY/iPC4YyMDIwMDAw/P//HwAUnwF/de7eYgAAAABJRU5ErkJggg==" alt="divider" />
 </div>
 
 ### 📂 Featured Projects
@@ -95,7 +95,7 @@ I hold a **B.Sc. in Electrical & Electronic Engineering** from AIUB (CGPA: 3.28/
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/rE3b2z3.png" alt="divider" width="100%"/>
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABDgAAAACCAYAAAD9TMcxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAaSURBVBhXY/iPC4YyMDIwMDAw/P//HwAUnwF/de7eYgAAAABJRU5ErkJggg==" alt="divider" />
 </div>
 
 ### 📈 My Developer Metrics
@@ -107,7 +107,7 @@ I hold a **B.Sc. in Electrical & Electronic Engineering** from AIUB (CGPA: 3.28/
   </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/rE3b2z3.png" alt="divider" width="100%"/>
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABDgAAAACCAYAAAD9TMcxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAaSURBVBhXY/iPC4YyMDIwMDAw/P//HwAUnwF/de7eYgAAAABJRU5ErkJggg==" alt="divider" />
 </div>
 
 ### 🌐 My Digital Footprint
