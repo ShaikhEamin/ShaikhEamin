@@ -52,54 +52,53 @@ I hold a <b>B.Sc. in Electrical & Electronic Engineering</b> from AIUB (CGPA: 3.
 
 ### 🛠️ My Technical Skills
 <details>
-  <summary><b>Programming & Tools</b></summary>
+  <summary><b>💻 Programming & Tools</b></summary>
   <p>
-    <code>Python</code> <code>SystemVerilog</code> <code>MATLAB</code> <code>Cadence</code> <code>Altium Designer</code> <code>Git</code>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python">
+    <img src="https://img.shields.io/badge/-SystemVerilog-019267?style=flat-square&logo=verilog" alt="SystemVerilog">
+    <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks" alt="MATLAB">
+    <img src="https://img.shields.io/badge/-Cadence-522E8E?style=flat-square&logo=cadence-design-systems" alt="Cadence">
+    <img src="https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=altium-designer" alt="Altium Designer">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" alt="Git">
   </p>
 </details>
 <details>
-  <summary><b>Hardware & System Design</b></summary>
+  <summary><b>⚙️ Hardware & System Design</b></summary>
   <p>
     <code>RTL Design</code> <code>FPGA Design</code> <code>VLSI Design</code> <code>PCB Design</code> <code>IoT Systems</code>
   </p>
 </details>
 <details>
-  <summary><b>Currently Learning</b></summary>
+  <summary><b>🧠 Currently Learning</b></summary>
   <p>
     <code>Advanced Quantum Algorithms</code> <code>Low-Power VLSI Techniques</code> <code>Rust Programming</code>
   </p>
 </details>
 
-</td>
-<td width="35%" valign="top">
+---
 
 ### ⚡ My Live Status
-**My Local Time**
+
+**🕒 My Local Time**
 <div>
   <a href="https://time.is/Khulna_Bangladesh" title="Time in Khulna, Bangladesh">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=clock&logoColor=white&label=Local%20Time&query=%24.time&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FDhaka" alt="My Local Time">
   </a>
 </div>
 <br>
-**Recent Activity**
+**🔄 Recent Activity**
 <br>
-**Developer Metrics**
+**📈 Developer Metrics**
 <details>
 <summary>Click to expand</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ShaikhEamin&show_icons=true&theme=rose_pine&hide_border=true&border_radius=10" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhEamin&layout=compact&theme=rose_pine&hide_border=true&border_radius=10" alt="Top Languages"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShaikhEamin&theme=rose_pine&hide_border=true&border_radius=10&layout=compact" alt="WakaTime Stats"/>
-  </p>
+    </p>
 </details>
-
-</td>
-</tr>
-</table>
 
 ---
 
 ### 📂 Featured Projects
+
 <table width="100%" border="0" style="border-collapse: collapse;">
   <tr valign="top">
     <td width="33%" style="padding:10px;">
@@ -132,6 +131,7 @@ I hold a <b>B.Sc. in Electrical & Electronic Engineering</b> from AIUB (CGPA: 3.
 ---
 
 ### 🌐 My Digital Footprint & How to Connect
+
 I'm always excited to collaborate on innovative projects. Feel free to reach out!
 <p>
   <a href="https://github.com/ShaikhEamin" title="GitHub"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
@@ -140,7 +140,7 @@ I'm always excited to collaborate on innovative projects. Feel free to reach out
   <a href="https://wa.me/8801980126253" title="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp"></a>
 </p>
 <p>
-  <b>Featured In:</b>
+  <b>📰 Featured In:</b>
   <a href="[LINK-TO-YOUR-IEEE-PUBLICATION]"><img src="https://img.shields.io/badge/IEEE%20ICPEICES%202024-00629B?style=flat-square&logo=ieee" alt="IEEE Publication"></a>
   <a href="[LINK-TO-YOUR-PODCAST-FEATURE]"><img src="https://img.shields.io/badge/Tech%20Innovators%20Podcast-9933CC?style=flat-square&logo=podcast-addict" alt="Podcast"></a>
 </p>
