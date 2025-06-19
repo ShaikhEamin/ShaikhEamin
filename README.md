@@ -22,11 +22,13 @@ I hold a <b>B.Sc. in Electrical & Electronic Engineering</b> from AIUB (CGPA: 3.
 <details>
 <summary><b>🏆 View My Key Achievements & Certifications</b></summary>
   <ul>
-    <li><b>Published Research:</b> My work on *Nutritional Information Extraction* was published in IEEE ICPEICES 2024.</li>
+    <li><b>Published Research:</b> My work on *Nutritional Information Extraction from Packaged Food Labels* was published in IEEE ICPEICES 2024.</li>
     <li><b>Trainee Engineer at DESCO:</b> Enhanced power distribution efficiency by 10%.</li>
     <li><b>Capstone Project Lead:</b> Designed an IoT-based theft detection system that reduced energy theft by 30%.</li>
     <li><b>Academic Excellence:</b> Achieved A+ grades in Power Systems Analysis and VLSI Design.</li>
-    <li><b>Certifications:</b> Google Project Management, Semiconductor Fabrication 101 (Purdue), Google IT Support Professional.</li>
+    <li><b>Google Project Management</b> Certificate</li>
+    <li><b>Semiconductor Fabrication 101</b> (Purdue University) Certificate</li>
+    <li><b>Google IT Support Professional</b> Certificate</li>
   </ul>
 </details>
 
@@ -36,13 +38,13 @@ I hold a <b>B.Sc. in Electrical & Electronic Engineering</b> from AIUB (CGPA: 3.
 <table width="100%">
 <tr valign="top">
 <td width="50%">
-  **2025 Goals**
+  **🚀 2025 Goals**
   - Publish new research on quantum security & RTL efficiency.
   - Master advanced FPGA and low-power VLSI design tools.
   - Begin a Master’s program in VLSI or Quantum Computing.
 </td>
 <td width="50%">
-  **10-Year Vision**
+  **🌟 10-Year Vision**
   - Lead a startup focused on developing quantum-secure IoT systems and innovative, energy-efficient semiconductor solutions.
 </td>
 </tr>
@@ -51,37 +53,48 @@ I hold a <b>B.Sc. in Electrical & Electronic Engineering</b> from AIUB (CGPA: 3.
 <br>
 
 ### 🛠️ My Technical Skills
-<details>
-  <summary><b>💻 Programming & Tools</b></summary>
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/SystemVerilog-019267?style=for-the-badge&logo=verilog&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Cadence-522E8E?style=for-the-badge&logo=cadence-design-systems&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  </p>
-</details>
-<details>
-  <summary><b>⚙️ Hardware & System Design</b></summary>
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/RTL%20Design-1C598E?style=for-the-badge&logo=verilog&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/FPGA%20Design-002D62?style=for-the-badge&logo=intel&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/VLSI%20Design-7C4DFF?style=for-the-badge&logo=e-learning&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/PCB%20Design-B38B59?style=for-the-badge&logo=altium-designer&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/IoT%20Systems-43B02A?style=for-the-badge&logo=iot&logoColor=white"></a>
-  </p>
-</details>
-<details>
-  <summary><b>🧠 Currently Learning</b></summary>
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/Advanced%20Quantum-5E2750?style=for-the-badge&logo=ibm&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Low--Power%20VLSI-C00000?style=for-the-badge&logo=e-learning&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
-  </p>
-</details>
+<table width="100%" border="0">
+  <tr valign="top">
+    <td width="33%">
+      <details>
+        <summary><b>💻 Programming & Tools</b></summary>
+        <p>
+          <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/SystemVerilog-019267?style=for-the-badge&logo=verilog&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Cadence-522E8E?style=for-the-badge&logo=cadence-design-systems&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+        </p>
+      </details>
+    </td>
+    <td width="33%">
+      <details>
+        <summary><b>⚙️ Hardware & Systems</b></summary>
+        <p>
+          <a href="#"><img src="https://img.shields.io/badge/RTL%20Design-1C598E?style=for-the-badge&logo=verilog&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/FPGA%20Design-002D62?style=for-the-badge&logo=intel&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/VLSI%20Design-7C4DFF?style=for-the-badge&logo=e-learning&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/PCB%20Design-B38B59?style=for-the-badge&logo=altium-designer&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/IoT%20Systems-43B02A?style=for-the-badge&logo=iot&logoColor=white"></a>
+        </p>
+      </details>
+    </td>
+    <td width="33%">
+      <details>
+        <summary><b>🧠 Currently Learning</b></summary>
+        <p>
+          <a href="#"><img src="https://img.shields.io/badge/Advanced%20Quantum-5E2750?style=for-the-badge&logo=ibm&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Low--Power%20VLSI-C00000?style=for-the-badge&logo=e-learning&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
+        </p>
+      </details>
+    </td>
+  </tr>
+</table>
 
----
+</td>
+<td width="35%" valign="top">
 
 ### ⚡ My Live Status
 
@@ -98,13 +111,19 @@ I hold a <b>B.Sc. in Electrical & Electronic Engineering</b> from AIUB (CGPA: 3.
 <details>
 <summary>Click to expand</summary>
   <p align="center">
-    </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ShaikhEamin&show_icons=true&theme=rose_pine&hide_border=true&border_radius=10" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhEamin&layout=compact&theme=rose_pine&hide_border=true&border_radius=10" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShaikhEamin&theme=rose_pine&hide_border=true&border_radius=10&layout=compact" alt="WakaTime Stats"/>
+  </p>
 </details>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📂 Featured Projects
-
 <table width="100%" border="0" style="border-collapse: collapse;">
   <tr valign="top">
     <td width="33%" style="padding:10px;">
@@ -137,7 +156,6 @@ I hold a <b>B.Sc. in Electrical & Electronic Engineering</b> from AIUB (CGPA: 3.
 ---
 
 ### 🌐 My Digital Footprint & How to Connect
-
 I'm always excited to collaborate on innovative projects. Feel free to reach out!
 <p>
   <a href="https://github.com/ShaikhEamin" title="GitHub"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
