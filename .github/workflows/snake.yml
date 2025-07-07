@@ -1,5 +1,4 @@
 name: 🐍 Generate Snake Contribution Grid
-
 on:
   schedule:
     - cron: "0 0 * * *"
