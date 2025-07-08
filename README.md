@@ -465,8 +465,6 @@ Analytics: Python, Apache Kafka, InfluxDB, Grafana
 
 ## 🐍 Contribution Snake
 
-### 🐍 GitHub Contribution Snake
-
 ![Snake animation](https://github.com/ShaikhEamin/ShaikhEamin/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌅 Daily Inspiration
