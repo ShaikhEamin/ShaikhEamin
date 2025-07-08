@@ -169,162 +169,21 @@ currently_learning:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaikhEamin&repo=IoT-Power-Theft-Protection&theme=gruvbox&hide_border=true&border_radius=10" alt="Project 1"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaikhEamin&repo=Quantum-Security-Algorithms&theme=gruvbox&hide_border=true&border_radius=10" alt="Project 2"/>
-</div>
-
-<details>
-<summary>🚀 IoT Power Theft Protection System</summary>
-<br>
-
-**🎯 Project Overview**
-A comprehensive IoT-based system leveraging piezoelectric sensors and real-time monitoring for power theft prevention and automated alert systems.
-
-**🔧 Technical Implementation**
-- **Hardware**: Custom PCB design with piezoelectric sensors, ESP32 microcontroller
-- **Software**: Python-based data processing pipeline with machine learning algorithms
-- **Communication**: LoRaWAN protocol for long-range, low-power connectivity
-- **Analytics**: Real-time dashboard with predictive theft detection
-
-**⭐ Key Achievements**
-- 📊 **30% reduction** in energy theft incidents
-- ⚡ **99.2% accuracy** in theft detection
-- 🔋 **6 months battery life** for remote sensors
-- 📱 **Real-time alerts** via mobile app integration
-
-**🛠️ Tech Stack**
-```
-Hardware: ESP32, LoRa, Piezoelectric Sensors, Custom PCB
+🚀 Featured Projects<div align="center">  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaikhEamin&repo=IoT-Power-Theft-Protection&theme=gruvbox&hide_border=true&border_radius=10" alt="Project 1"/>  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaikhEamin&repo=Quantum-Security-Algorithms&theme=gruvbox&hide_border=true&border_radius=10" alt="Project 2"/></div>🚀 IoT Power Theft Protection SystemA comprehensive IoT-based system leveraging piezoelectric sensors and real-time monitoring for power theft prevention and automated alert systems.🔧 Technical Implementation⭐ Key AchievementsHardware: Custom PCB, ESP32, Piezoelectric Sensors📊 30% reduction in energy theft incidentsSoftware: Python with ML data processing⚡ 99.2% accuracy in theft detectionCommunication: Long-range LoRaWAN protocol🔋 6 months battery life for remote sensorsAnalytics: Real-time dashboard with predictive detection📱 Real-time alerts via mobile app integration<br>🛠️ Tech StackHardware: ESP32, LoRa, Piezoelectric Sensors, Custom PCB
 Software: Python, TensorFlow, MQTT, Firebase
 Tools: KiCad, FreeRTOS, Docker, GitHub Actions
-```
-
-**📈 Impact Metrics**
-- Deployed across 50+ utility poles
-- Monitoring 10MW+ power distribution
-- Reduced investigation time by 80%
-- Cost savings: $50K annually
-
-**[📋 View Code]** • **[🔗 Live Demo]** • **[📄 Research Paper]**
-
-</details>
-
-<details>
-<summary>🔒 Quantum-Resistant Cryptographic Hardware</summary>
-<br>
-
-**🎯 Project Overview**
-Development of post-quantum cryptographic algorithms optimized for low-power embedded systems and IoT devices.
-
-**🔧 Technical Implementation**
-- **Algorithm**: Lattice-based cryptography with CRYSTALS-Dilithium
-- **Hardware**: Custom FPGA implementation for acceleration
-- **Optimization**: Power-efficient design reducing energy consumption by 40%
-- **Testing**: Comprehensive security analysis against quantum attacks
-
-**⭐ Key Achievements**
-- 🔐 **Quantum-resistant** security protocols
-- ⚡ **40% power reduction** compared to traditional methods
-- 🚀 **3x faster** encryption/decryption on FPGA
-- 📊 **128-bit security** against quantum computers
-
-**🛠️ Tech Stack**
-```
-Hardware: Xilinx FPGA, Custom RTL Design (SystemVerilog)
+📈 Impact MetricsDeployed across 50+ utility polesMonitoring 10MW+ of power distributionReduced investigation time by 80%Achieved $50K+ in annual cost savings<p align="center"><a href="#"><strong>📋 View Code</strong></a> •<a href="#"><strong>🔗 Live Demo</strong></a> •<a href="#"><strong>📄 Research Paper</strong></a></p>🔒 Quantum-Resistant Cryptographic HardwareDevelopment of post-quantum cryptographic algorithms optimized for low-power embedded systems and IoT devices.🔧 Technical Implementation⭐ Key AchievementsAlgorithm: Lattice-based CRYSTALS-Dilithium🔐 Quantum-resistant security protocolsHardware: Custom FPGA for acceleration⚡ 40% power reduction vs. traditional methodsOptimization: Power-efficient design🚀 3x faster encryption/decryption on FPGASecurity: Rigorous analysis against quantum attacks📊 128-bit security against quantum computers<br>🛠️ Tech StackHardware: Xilinx FPGA, Custom RTL Design (SystemVerilog)
 Software: Python, SageMath, OpenSSL, C++
 Tools: Vivado, ModelSim, MATLAB, Quantum Simulators
-```
-
-**📈 Research Impact**
-- Published in IEEE ICPEICES 2024
-- Cited by 15+ research papers
-- Open-source implementation with 100+ stars
-- Collaboration with 3 universities
-
-**[📋 View Code]** • **[🔗 FPGA Demo]** • **[📄 IEEE Paper]**
-
-</details>
-
-<details>
-<summary>⚡ RISC-V Processor with Custom ISA Extensions</summary>
-<br>
-
-**🎯 Project Overview**
-Design and implementation of a custom RISC-V processor with specialized instructions for cryptographic operations and IoT applications.
-
-**🔧 Technical Implementation**
-- **Architecture**: 5-stage pipeline RISC-V RV32I core
-- **Custom ISA**: Crypto extensions for AES, SHA, and post-quantum algorithms
-- **Memory**: Harvard architecture with L1 cache optimization
-- **Verification**: Comprehensive testbench with 1000+ test cases
-
-**⭐ Key Achievements**
-- 🎯 **95% test coverage** in functional verification
-- 🚀 **200MHz** maximum frequency on FPGA
-- 🔒 **Hardware security** features integrated
-- 📊 **15% performance boost** for crypto operations
-
-**🛠️ Tech Stack**
-```
-RTL Design: SystemVerilog, VHDL
+📈 Research ImpactPublished in IEEE ICPEICES 2024Cited by 15+ research papersOpen-source implementation with 100+ starsCollaboration with 3 universities<p align="center"><a href="#"><strong>📋 View Code</strong></a> •<a href="#"><strong>🔗 FPGA Demo</strong></a> •<a href="#"><strong>📄 IEEE Paper</strong></a></p>⚡ RISC-V Processor with Custom ISA ExtensionsDesign and implementation of a custom RISC-V processor with specialized instructions for cryptographic operations and IoT applications.🔧 Technical Implementation⭐ Key AchievementsArchitecture: 5-stage pipeline RISC-V RV32I core🎯 95% test coverage in functional verificationCustom ISA: Crypto extensions for AES & SHA🚀 200MHz maximum frequency on FPGAMemory: Harvard architecture with L1 cache🔒 Integrated hardware security featuresVerification: Comprehensive testbench (1000+ cases)📊 15% performance boost for crypto ops<br>🛠️ Tech StackRTL Design: SystemVerilog, VHDL
 Verification: UVM, SystemVerilog Assertions
 Tools: ModelSim, Synopsys Design Compiler, Cadence
 FPGA: Xilinx Zynq UltraScale+, Vivado
-```
-
-**📈 Implementation Results**
-- 50K+ LUTs utilization
-- 2.5W power consumption
-- Compatible with RISC-V ecosystem
-- Linux bootable implementation
-
-**[📋 View RTL Code]** • **[🔗 FPGA Demo]** • **[📄 Architecture Doc]**
-
-</details>
-
-<details>
-<summary>🌡️ Smart Environmental Monitoring Network</summary>
-<br>
-
-**🎯 Project Overview**
-Large-scale IoT network for environmental monitoring with AI-powered analytics and predictive modeling for climate change research.
-
-**🔧 Technical Implementation**
-- **Sensors**: Temperature, humidity, air quality, noise, radiation
-- **Network**: Mesh topology with 500+ nodes across 10km²
-- **Edge Computing**: Local ML inference on ARM Cortex-M7
-- **Cloud**: AWS IoT Core with real-time data processing
-
-**⭐ Key Achievements**
-- 🌍 **500+ sensor nodes** deployed
-- 📊 **99.9% uptime** with redundant connectivity
-- 🤖 **AI predictions** with 85% accuracy
-- 📱 **Public dashboard** with 10K+ users
-
-**🛠️ Tech Stack**
-```
-Hardware: STM32, LoRaWAN, Solar panels, Custom sensors
+📈 Implementation Results50K+ LUTs utilization2.5W power consumptionFully compatible with the RISC-V ecosystemLinux bootable implementation<p align="center"><a href="#"><strong>📋 View RTL Code</strong></a> •<a href="#"><strong>🔗 FPGA Demo</strong></a> •<a href="#"><strong>📄 Architecture Doc</strong></a></p>🌡️ Smart Environmental Monitoring NetworkA large-scale IoT network for environmental monitoring with AI-powered analytics and predictive modeling for climate change research.🔧 Technical Implementation⭐ Key AchievementsSensors: Temp, humidity, air quality, noise, radiation🌍 500+ sensor nodes deployedNetwork: Mesh topology over 10km²📊 99.9% uptime with redundant connectivityEdge Computing: Local ML inference on ARM Cortex-M7🤖 AI predictions with 85% accuracyCloud: AWS IoT Core for real-time data processing📱 Public dashboard with 10K+ active users<br>🛠️ Tech StackHardware: STM32, LoRaWAN, Solar panels, Custom sensors
 Software: FreeRTOS, TensorFlow Lite, AWS IoT, React
 Communication: LoRaWAN, WiFi, Cellular (4G/5G)
 Analytics: Python, Apache Kafka, InfluxDB, Grafana
-```
-
-**📈 Environmental Impact**
-- 2 years of continuous monitoring
-- 100TB+ environmental data collected
-- 3 research papers published
-- Collaboration with environmental agencies
-
-**[📋 View Code]** • **[🌐 Live Dashboard]** • **[📄 Research Data]**
-
-</details>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
-</div>
+📈 Environmental Impact2 years of continuous environmental monitoring100TB+ of environmental data collectedResulted in 3 published research papersCollaboration with multiple environmental agencies<p align="center"><a href="#"><strong>📋 View Code</strong></a> •<a href="#"><strong>🌐 Live Dashboard</strong></a> •<a href="#"><strong>📄 Research Data</strong></a></p><div align="center">  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" /></div>
 
 ## 📊 GitHub Analytics
 
