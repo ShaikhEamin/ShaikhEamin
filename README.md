@@ -171,14 +171,14 @@ currently_learning:
 
 ## 🚀 Featured Projects
 
-<table align="center">
+<table>
   <tr>
-    <td align="center">
+    <td>
       <a href="https://github.com/ShaikhEamin/IoT-Power-Theft-Protection">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaikhEamin&repo=IoT-Power-Theft-Protection&theme=gruvbox&hide_border=true" />
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://github.com/ShaikhEamin/Quantum-Security-Algorithms">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaikhEamin&repo=Quantum-Security-Algorithms&theme=gruvbox&hide_border=true" />
       </a>
