@@ -171,10 +171,21 @@ currently_learning:
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaikhEamin&repo=IoT-Power-Theft-Protection&theme=gruvbox&hide_border=true&border_radius=10" alt="Project 1"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaikhEamin&repo=Quantum-Security-Algorithms&theme=gruvbox&hide_border=true&border_radius=10" alt="Project 2"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ShaikhEamin/IoT-Power-Theft-Protection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaikhEamin&repo=IoT-Power-Theft-Protection&theme=gruvbox&hide_border=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ShaikhEamin/Quantum-Security-Algorithms">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaikhEamin&repo=Quantum-Security-Algorithms&theme=gruvbox&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <details>
 <summary>🚀 IoT Power Theft Protection System</summary>
