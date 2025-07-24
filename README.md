@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shaikh%20Eamin&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=RTL%20Designer%20|%20VLSI%20Enthusiast%20|%20Quantum%20Security%20Analyst&descAlignY=51&descAlign=50"/>
 </div>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=d8a657&center=true&width=800&lines=Welcome+to+my+Digital+Universe+🌌;RTL+Designer+%7C+VLSI+Enthusiast;Quantum+Security+Analyst+%7C+IoT+Innovator;Building+Tomorrow's+Hardware+Today+⚡;Engineering+by+First+Principles+🔬" alt="Typing SVG" />
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 </div>
