@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/ShaikhEamin">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=d8a657&center=true&width=800&lines=Welcome+to+my+Digital+Universe+🌌;RTL+Designer+%7C+VLSI+Enthusiast;Quantum+Security+Analyst+%7C+IoT+Innovator;Building+Tomorrow's+Hardware+Today+⚡;Engineering+by+First+Principles+🔬" alt="Typing SVG" />
+    
   </a>
 </div>
 
