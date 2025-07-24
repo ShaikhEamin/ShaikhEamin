@@ -23,7 +23,7 @@ current_job: RTL Design Engineer
 education: 
   - "B.Sc. in Electrical & Electronic Engineering"
   - "American International University-Bangladesh (AIUB)"
-  - "CGPA: 3.28/4.00"
+  - "CGPA: 3.68/4.00"
 
 fields_of_interests:
   - "RTL Design & VLSI"
