@@ -11,7 +11,7 @@
 
 ```yaml
 name: Shaikh Eamin
-located_in: Khulna, Bangladesh
+located_in: Dhaka, Bangladesh
 current_job: RTL Design Engineer
 education: 
   - "B.Sc. in Electrical & Electronic Engineering"
