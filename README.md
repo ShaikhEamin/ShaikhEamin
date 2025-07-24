@@ -69,8 +69,9 @@ currently_learning:
 ## 🏆 Achievements & Milestones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShaikhEamin&theme=gruvbox&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://images.weserv.nl/?url=github-profile-trophy.vercel.app/?username=ShaikhEamin&theme=gruvbox&no-frame=true&row=1&column=7" alt="Trophies" />
 </div>
+
 
 ### 📚 Academic Excellence
 - 🎓 **B.Sc. in Electrical & Electronic Engineering** - AIUB (CGPA: 3.28/4.00)
